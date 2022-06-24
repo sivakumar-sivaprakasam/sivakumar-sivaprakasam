@@ -2,9 +2,9 @@
 
 I'm Sivakumar!!
 
-[![Sivakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivakumar-sivaprakasam)](https://github.com/anuraghazra/github-readme-stats)
+[![Sivakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivakumar-sivaprakasam&langs_count=8&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-sivaprakasam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar-sivaprakasam&langs_count=8&show_icons=true&theme=radical)]
 
 <!--
 **sivakumar-sivaprakasam/sivakumar-sivaprakasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
