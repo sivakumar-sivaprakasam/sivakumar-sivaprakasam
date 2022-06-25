@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Sivakumar</h1>
 <h3 align="center">Technology enthusiast and a passionate software engineer 👨‍💻</h3>
 <p align="left"> 
-  <img src="https://img.shields.io/badge/LinkedIn-1.9k-blue?style=social&logo=linkedin" alt="sivakumar linkedin follow" />
+  <img src="https://img.shields.io/badge/LinkedIn-476-blue?style=social&logo=linkedin" alt="sivakumar linkedin follow" />
   <img src="https://img.shields.io/github/followers/sivakumar-sivaprakasam?style=social" alt="sivakumar github followers" />
     <img src="https://img.shields.io/twitter/follow/ssivakumar77?style=social" alt="sivakumar twitter followers" />
   <img src="https://komarev.com/ghpvc/?username=sivakumar-sivaprakasam&color=BEBEBE" alt="sivakumar-sivaprakasam" />
